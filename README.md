@@ -4,5 +4,9 @@
 
 
 建议打包使用
+
+
 pip3 install pyinstaller
+
+
 pyinstaller -F .\SalaryEmailRun.py --noconsole
