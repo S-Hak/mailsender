@@ -4,3 +4,9 @@
 
 
 
+![image](https://github.com/S-Hak/mailsender/blob/main/images/1.png)
+
+
+
+
+![image](https://github.com/S-Hak/mailsender/blob/main/images/2.png)
