@@ -2,6 +2,15 @@
 
 ## 直连邮件服务器发送邮件：
 
+#### 快速开始：
+
+下载发布版：
+        
+        发布版为exe文件，随便杀毒扫描，完全绿色无后面（免杀还没学会hhhhhhh）
+        直接运行即可，当前仅在win10测试，其他版本情况可在Issues反馈
+
+
+
 #### 默认主页：
 ![image](https://github.com/S-Hak/mailsender/blob/main/images/1.png)
 
